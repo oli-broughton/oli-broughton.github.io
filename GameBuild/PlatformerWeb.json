@@ -1,0 +1,11 @@
+{
+"companyName": "Oliver Broughton",
+"productName": "Platformer",
+"dataUrl": "PlatformerWeb.data.unityweb",
+"asmCodeUrl": "PlatformerWeb.asm.code.unityweb",
+"asmMemoryUrl": "PlatformerWeb.asm.memory.unityweb",
+"asmFrameworkUrl": "PlatformerWeb.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
