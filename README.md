@@ -1,5 +1,5 @@
 # oli-broughton.github.io
-WebGL builds of my portfolio games
+WebGL builds of some old personal games
 
 ## Game Links 
 * [Open Stack](https://oli-broughton.github.io/openstack/index.html)
